@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary inspection & test artifacts
+classes_used.txt
+*_test.png
+screenshot_*.png
+test_*.png
+sop_*.png
+current_*.png
+verified_*.png
+twopart_*.png
+clean_tabs_*.png
+dark_*.png
+step*_*.png
+real_bill_*.png
+standalone_*.png
+air_gapped_*.png
+offline_*.png
+final_*.png

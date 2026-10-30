@@ -1,0 +1,2 @@
+# update script
+print('ready')

@@ -1,0 +1,146 @@
+/* GENERATED COMPLETE TAILWIND DARK MODE UTILITIES */
+html.dark .dark\:bg-amber-900\/60, [data-theme="dark"] .dark\:bg-amber-900\/60 { background-color: rgba(120, 53, 15, 0.6) !important; }
+html.dark .dark\:bg-amber-950\/30, [data-theme="dark"] .dark\:bg-amber-950\/30 { background-color: rgba(69, 26, 3, 0.4) !important; }
+html.dark .dark\:bg-amber-950\/40, [data-theme="dark"] .dark\:bg-amber-950\/40 { background-color: rgba(69, 26, 3, 0.5) !important; }
+html.dark .dark\:bg-blue-800, [data-theme="dark"] .dark\:bg-blue-800 { background-color: #1e40af !important; }
+html.dark .dark\:bg-blue-900, [data-theme="dark"] .dark\:bg-blue-900 { background-color: #1e3a8a !important; }
+html.dark .dark\:bg-blue-900\/40, [data-theme="dark"] .dark\:bg-blue-900\/40 { background-color: rgba(30, 58, 138, 0.4) !important; }
+html.dark .dark\:bg-blue-900\/50, [data-theme="dark"] .dark\:bg-blue-900\/50 { background-color: rgba(30, 58, 138, 0.5) !important; }
+html.dark .dark\:bg-blue-900\/60, [data-theme="dark"] .dark\:bg-blue-900\/60 { background-color: rgba(30, 58, 138, 0.6) !important; }
+html.dark .dark\:bg-blue-950\/50, [data-theme="dark"] .dark\:bg-blue-950\/50 { background-color: rgba(23, 37, 84, 0.5) !important; }
+html.dark .dark\:bg-emerald-900, [data-theme="dark"] .dark\:bg-emerald-900 { background-color: #064e3b !important; }
+html.dark .dark\:bg-emerald-900\/40, [data-theme="dark"] .dark\:bg-emerald-900\/40 { background-color: rgba(6, 78, 59, 0.4) !important; }
+html.dark .dark\:bg-emerald-900\/50, [data-theme="dark"] .dark\:bg-emerald-900\/50 { background-color: rgba(6, 78, 59, 0.5) !important; }
+html.dark .dark\:bg-emerald-900\/60, [data-theme="dark"] .dark\:bg-emerald-900\/60 { background-color: rgba(6, 78, 59, 0.6) !important; }
+html.dark .dark\:bg-emerald-950\/50, [data-theme="dark"] .dark\:bg-emerald-950\/50 { background-color: rgba(2, 44, 34, 0.5) !important; }
+html.dark .dark\:bg-indigo-800, [data-theme="dark"] .dark\:bg-indigo-800 { background-color: #3730a3 !important; }
+html.dark .dark\:bg-indigo-900\/60, [data-theme="dark"] .dark\:bg-indigo-900\/60 { background-color: rgba(49, 46, 129, 0.6) !important; }
+html.dark .dark\:bg-indigo-950\/20, [data-theme="dark"] .dark\:bg-indigo-950\/20 { background-color: rgba(30, 27, 75, 0.3) !important; }
+html.dark .dark\:bg-indigo-950\/30, [data-theme="dark"] .dark\:bg-indigo-950\/30 { background-color: rgba(30, 27, 75, 0.4) !important; }
+html.dark .dark\:bg-purple-900\/60, [data-theme="dark"] .dark\:bg-purple-900\/60 { background-color: rgba(88, 28, 135, 0.6) !important; }
+html.dark .dark\:bg-red-800, [data-theme="dark"] .dark\:bg-red-800 { background-color: #991b1b !important; }
+html.dark .dark\:bg-red-900\/40, [data-theme="dark"] .dark\:bg-red-900\/40 { background-color: rgba(127, 29, 29, 0.4) !important; }
+html.dark .dark\:bg-red-900\/60, [data-theme="dark"] .dark\:bg-red-900\/60 { background-color: rgba(127, 29, 29, 0.6) !important; }
+html.dark .dark\:bg-red-950\/20, [data-theme="dark"] .dark\:bg-red-950\/20 { background-color: rgba(69, 10, 10, 0.3) !important; }
+html.dark .dark\:bg-red-950\/30, [data-theme="dark"] .dark\:bg-red-950\/30 { background-color: rgba(69, 10, 10, 0.4) !important; }
+html.dark .dark\:bg-rose-900\/50, [data-theme="dark"] .dark\:bg-rose-900\/50 { background-color: rgba(136, 19, 55, 0.5) !important; }
+html.dark .dark\:bg-rose-950\/20, [data-theme="dark"] .dark\:bg-rose-950\/20 { background-color: rgba(76, 5, 25, 0.3) !important; }
+html.dark .dark\:bg-sky-900\/50, [data-theme="dark"] .dark\:bg-sky-900\/50 { background-color: rgba(12, 74, 110, 0.5) !important; }
+html.dark .dark\:bg-slate-800, [data-theme="dark"] .dark\:bg-slate-800 { background-color: #1e293b !important; }
+html.dark .dark\:bg-slate-900, [data-theme="dark"] .dark\:bg-slate-900 { background-color: #0f172a !important; }
+html.dark .dark\:bg-slate-900\/70, [data-theme="dark"] .dark\:bg-slate-900\/70 { background-color: rgba(15, 23, 42, 0.7) !important; }
+html.dark .dark\:bg-slate-900\/80, [data-theme="dark"] .dark\:bg-slate-900\/80 { background-color: rgba(15, 23, 42, 0.8) !important; }
+html.dark .dark\:bg-slate-900\/90, [data-theme="dark"] .dark\:bg-slate-900\/90 { background-color: rgba(15, 23, 42, 0.9) !important; }
+html.dark .dark\:border-amber-700, [data-theme="dark"] .dark\:border-amber-700 { border-color: #b45309 !important; }
+html.dark .dark\:border-amber-900, [data-theme="dark"] .dark\:border-amber-900 { border-color: #78350f !important; }
+html.dark .dark\:border-blue-700, [data-theme="dark"] .dark\:border-blue-700 { border-color: #1d4ed8 !important; }
+html.dark .dark\:border-blue-800, [data-theme="dark"] .dark\:border-blue-800 { border-color: #1e40af !important; }
+html.dark .dark\:border-blue-900\/60, [data-theme="dark"] .dark\:border-blue-900\/60 { border-color: rgba(30, 58, 138, 0.6) !important; }
+html.dark .dark\:border-emerald-700, [data-theme="dark"] .dark\:border-emerald-700 { border-color: #047857 !important; }
+html.dark .dark\:border-emerald-900, [data-theme="dark"] .dark\:border-emerald-900 { border-color: #064e3b !important; }
+html.dark .dark\:border-emerald-900\/60, [data-theme="dark"] .dark\:border-emerald-900\/60 { border-color: rgba(6, 78, 59, 0.6) !important; }
+html.dark .dark\:border-indigo-900\/60, [data-theme="dark"] .dark\:border-indigo-900\/60 { border-color: rgba(49, 46, 129, 0.6) !important; }
+html.dark .dark\:border-red-700, [data-theme="dark"] .dark\:border-red-700 { border-color: #b91c1c !important; }
+html.dark .dark\:border-red-900, [data-theme="dark"] .dark\:border-red-900 { border-color: #7f1d1d !important; }
+html.dark .dark\:border-rose-900\/60, [data-theme="dark"] .dark\:border-rose-900\/60 { border-color: rgba(136, 19, 55, 0.6) !important; }
+html.dark .dark\:border-slate-700\/60, [data-theme="dark"] .dark\:border-slate-700\/60 { border-color: rgba(51, 65, 85, 0.6) !important; }
+html.dark .dark\:text-amber-200, [data-theme="dark"] .dark\:text-amber-200 { color: #fde68a !important; }
+html.dark .dark\:text-amber-400, [data-theme="dark"] .dark\:text-amber-400 { color: #fbbf24 !important; }
+html.dark .dark\:text-blue-100, [data-theme="dark"] .dark\:text-blue-100 { color: #dbeafe !important; }
+html.dark .dark\:text-blue-200, [data-theme="dark"] .dark\:text-blue-200 { color: #bfdbfe !important; }
+html.dark .dark\:text-blue-300, [data-theme="dark"] .dark\:text-blue-300 { color: #93c5fd !important; }
+html.dark .dark\:text-blue-400, [data-theme="dark"] .dark\:text-blue-400 { color: #60a5fa !important; }
+html.dark .dark\:text-emerald-100, [data-theme="dark"] .dark\:text-emerald-100 { color: #d1fae5 !important; }
+html.dark .dark\:text-emerald-200, [data-theme="dark"] .dark\:text-emerald-200 { color: #a7f3d0 !important; }
+html.dark .dark\:text-emerald-300, [data-theme="dark"] .dark\:text-emerald-300 { color: #6ee7b7 !important; }
+html.dark .dark\:text-emerald-400, [data-theme="dark"] .dark\:text-emerald-400 { color: #34d399 !important; }
+html.dark .dark\:text-indigo-200, [data-theme="dark"] .dark\:text-indigo-200 { color: #c7d2fe !important; }
+html.dark .dark\:text-indigo-300, [data-theme="dark"] .dark\:text-indigo-300 { color: #a5b4fc !important; }
+html.dark .dark\:text-indigo-400, [data-theme="dark"] .dark\:text-indigo-400 { color: #818cf8 !important; }
+html.dark .dark\:text-purple-400, [data-theme="dark"] .dark\:text-purple-400 { color: #c084fc !important; }
+html.dark .dark\:text-red-100, [data-theme="dark"] .dark\:text-red-100 { color: #fee2e2 !important; }
+html.dark .dark\:text-red-200, [data-theme="dark"] .dark\:text-red-200 { color: #fecaca !important; }
+html.dark .dark\:text-red-300, [data-theme="dark"] .dark\:text-red-300 { color: #fca5a5 !important; }
+html.dark .dark\:text-red-400, [data-theme="dark"] .dark\:text-red-400 { color: #f87171 !important; }
+html.dark .dark\:text-rose-300, [data-theme="dark"] .dark\:text-rose-300 { color: #fda4af !important; }
+html.dark .dark\:text-rose-400, [data-theme="dark"] .dark\:text-rose-400 { color: #fb7185 !important; }
+html.dark .dark\:text-sky-300, [data-theme="dark"] .dark\:text-sky-300 { color: #7dd3fc !important; }
+html.dark .dark\:text-sky-400, [data-theme="dark"] .dark\:text-sky-400 { color: #38bdf8 !important; }
+html.dark .dark\:text-slate-100, [data-theme="dark"] .dark\:text-slate-100 { color: #f1f5f9 !important; }
+html.dark .dark\:text-slate-200, [data-theme="dark"] .dark\:text-slate-200 { color: #e2e8f0 !important; }
+html.dark .dark\:text-slate-300, [data-theme="dark"] .dark\:text-slate-300 { color: #cbd5e1 !important; }
+html.dark .dark\:text-slate-400, [data-theme="dark"] .dark\:text-slate-400 { color: #94a3b8 !important; }
+
+
+/* --- 國稅局臨櫃實戰 SOP 高對比樣式 --- */
+#tax_office_interview_sop {
+    border-width: 2px !important;
+    border-style: solid !important;
+}
+html:not(.dark) #tax_office_interview_sop,
+[data-theme="light"] #tax_office_interview_sop {
+    background: linear-gradient(135deg, #f0f5ff 0%, #e0e7ff 100%) !important;
+    border-color: #6366f1 !important;
+}
+html:not(.dark) #tax_office_interview_sop .sop-main-title,
+[data-theme="light"] #tax_office_interview_sop .sop-main-title {
+    color: #1e1b4b !important;
+}
+html:not(.dark) #tax_office_interview_sop .sop-q-card,
+[data-theme="light"] #tax_office_interview_sop .sop-q-card {
+    background-color: #ffffff !important;
+    border: 1px solid #c7d2fe !important;
+    color: #0f172a !important;
+}
+html:not(.dark) #tax_office_interview_sop .sop-q-title,
+[data-theme="light"] #tax_office_interview_sop .sop-q-title {
+    color: #1e40af !important;
+}
+html:not(.dark) #tax_office_interview_sop .sop-tip-text,
+[data-theme="light"] #tax_office_interview_sop .sop-tip-text {
+    color: #475569 !important;
+}
+html:not(.dark) #tax_office_interview_sop .sop-housing-card,
+[data-theme="light"] #tax_office_interview_sop .sop-housing-card {
+    background-color: #ecfdf5 !important;
+    border: 1.5px solid #059669 !important;
+    color: #064e3b !important;
+}
+html:not(.dark) #tax_office_interview_sop .sop-housing-title,
+[data-theme="light"] #tax_office_interview_sop .sop-housing-title {
+    color: #064e3b !important;
+}
+
+html.dark #tax_office_interview_sop,
+[data-theme="dark"] #tax_office_interview_sop {
+    background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%) !important;
+    border-color: #818cf8 !important;
+}
+html.dark #tax_office_interview_sop .sop-main-title,
+[data-theme="dark"] #tax_office_interview_sop .sop-main-title {
+    color: #ffffff !important;
+}
+html.dark #tax_office_interview_sop .sop-q-card,
+[data-theme="dark"] #tax_office_interview_sop .sop-q-card {
+    background-color: #1e293b !important;
+    border: 1px solid #4338ca !important;
+    color: #f8fafc !important;
+}
+html.dark #tax_office_interview_sop .sop-q-title,
+[data-theme="dark"] #tax_office_interview_sop .sop-q-title {
+    color: #93c5fd !important;
+}
+html.dark #tax_office_interview_sop .sop-tip-text,
+[data-theme="dark"] #tax_office_interview_sop .sop-tip-text {
+    color: #cbd5e1 !important;
+}
+html.dark #tax_office_interview_sop .sop-housing-card,
+[data-theme="dark"] #tax_office_interview_sop .sop-housing-card {
+    background-color: rgba(6, 78, 59, 0.55) !important;
+    border: 1.5px solid #10b981 !important;
+    color: #f0fdf4 !important;
+}
+html.dark #tax_office_interview_sop .sop-housing-title,
+[data-theme="dark"] #tax_office_interview_sop .sop-housing-title {
+    color: #6ee7b7 !important;
+}
